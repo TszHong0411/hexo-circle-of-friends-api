@@ -1,1 +1,1 @@
-# hexo-circle-of-friends-api
+## Frined link group.
