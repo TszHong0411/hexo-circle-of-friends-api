@@ -1,1 +1,1 @@
-## Frined link group.
+## Friend link group.
